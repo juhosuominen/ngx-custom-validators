@@ -1,6 +1,7 @@
 {
   "name": "ngx-custom-validators",
   "version": "10.0.0",
+  "main": "dist/fesm2015/ngx-custom-validators.js",
   "description": "Angular custom directives for validation",
   "scripts": {
     "ng": "ng",
